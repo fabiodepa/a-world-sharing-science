@@ -1,5 +1,5 @@
 
-# Research efforts during the covid-19 pandemic
+# In a world sharing science
 
 *autho*r: Fabio De Pascale
 
