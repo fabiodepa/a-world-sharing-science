@@ -1,9 +1,9 @@
----
-title: "Research efforts during the covid-19 pandemic"
-author: "Fabio De Pascale"
-date: "4/5/2020"
-output: html_document
----
+
+# Research efforts during the covid-19 pandemic
+
+*autho*r: Fabio De Pascale
+
+*date*: 8/5/2020
 
 ## Methodology note
 
