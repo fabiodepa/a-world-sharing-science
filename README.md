@@ -7,6 +7,8 @@
 
 ## Methodology note
 
+This document describe the sources of data and the manipulation steps for an article I published on Medium [In a world sharing science](https://medium.com/@depascale.f/in-a-world-sharing-science-d15be7e92319).
+
 ### Data sources
 
 Data were collected on the 30th of April 2020.
